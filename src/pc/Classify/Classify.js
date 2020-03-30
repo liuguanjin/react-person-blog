@@ -1,10 +1,9 @@
 import React from "react";
-import Header from "../Common/Header/Header.js";
-export default class Home extends React.Component{
+import "./Classify.css";
+export default class Classify extends React.Component{
 	render(){
 		return(
 			<div className="classify">
-				<Header />
 			</div>
 		)
 	}

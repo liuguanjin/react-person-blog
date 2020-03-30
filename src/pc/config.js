@@ -7,7 +7,7 @@ const titlelist = [
 
 const blogDescribe = "本博客使用react+react-router-dom+antd+express+mysql技术";
 
-const blogGithub = ""
+const blogGithub = "https://github.com/liuguanjin/react-person-blog"
 
 const title = "う渐垳渐逺ゝ的博客";
 
